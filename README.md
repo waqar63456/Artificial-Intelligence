@@ -1,3 +1,11 @@
+![Aurum Demo](screenshorts/ai-images.png)  
+![Aurum Demo](screenshorts/ai-tool.png)  
+![Aurum Demo](screenshorts/upload-doc.png)
+
+
+
+
+
 🚀 AI Assistant Platform (ChatGPT-Like System Built with Laravel + OpenAI)    
 
 ![Laravel](https://img.shields.io/badge/Laravel-10-red?style=flat-square&logo=laravel&logoColor=white)
