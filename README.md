@@ -1,4 +1,13 @@
-🚀 AI Assistant Platform (ChatGPT-Like System Built with Laravel + OpenAI)
+🚀 AI Assistant Platform (ChatGPT-Like System Built with Laravel + OpenAI)    
+
+![Laravel](https://img.shields.io/badge/Laravel-10-red?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8-blue?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8-blue?style=flat-square&logo=mysql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-lightgrey?style=flat-square&logo=OpenAI)
+![Vue.js](https://img.shields.io/badge/Vue.js-3-green?style=flat-square&logo=vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3-blue?style=flat-square&logo=tailwind-css&logoColor=white)
+
+
 📌 Project Overview
 
 This is a full-stack AI assistant web application inspired by ChatGPT.
