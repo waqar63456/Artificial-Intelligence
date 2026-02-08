@@ -88,7 +88,7 @@ app/
 
 ⚙️ Installation
 1. Clone Repository
-git clone https://github.com/your-username/Artificial-Intelligence.git
+git clone https://github.com/waqar63456/Artificial-Intelligence.git
 
 2. Install Dependencies
 composer install
